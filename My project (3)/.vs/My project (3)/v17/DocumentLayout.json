@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mareatan\\My project (3)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\Mareatan\\My project (3)\\assets\\game staff\\eating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\game staff\\eating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|c:\\users\\mareatan\\my project (3)\\assets\\spheremovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\spheremovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\Mareatan\\My project (3)\\assets\\game staff\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\game staff\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\Mareatan\\My project (3)\\assets\\game staff\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\game staff\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\Mareatan\\My project (3)\\assets\\lightswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\lightswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\Mareatan\\My project (3)\\assets\\ballfall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\ballfall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\Mareatan\\My project (3)\\assets\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\Mareatan\\My project (3)\\assets\\cubescr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\cubescr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\Mareatan\\My project (3)\\assets\\changecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\changecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "score.cs",
+              "DocumentMoniker": "C:\\Users\\Mareatan\\My project (3)\\Assets\\game staff\\score.cs",
+              "RelativeDocumentMoniker": "Assets\\game staff\\score.cs",
+              "ToolTip": "C:\\Users\\Mareatan\\My project (3)\\Assets\\game staff\\score.cs",
+              "RelativeToolTip": "Assets\\game staff\\score.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T05:09:11.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\Mareatan\\My project (3)\\Assets\\game staff\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\game staff\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\Mareatan\\My project (3)\\Assets\\game staff\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\game staff\\ScoreManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T19:46:24.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "eating.cs",
+              "DocumentMoniker": "C:\\Users\\Mareatan\\My project (3)\\Assets\\game staff\\eating.cs",
+              "RelativeDocumentMoniker": "Assets\\game staff\\eating.cs",
+              "ToolTip": "C:\\Users\\Mareatan\\My project (3)\\Assets\\game staff\\eating.cs",
+              "RelativeToolTip": "Assets\\game staff\\eating.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:27:13.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SphereMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Mareatan\\My project (3)\\Assets\\SphereMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\SphereMovement.cs",
+              "ToolTip": "C:\\Users\\Mareatan\\My project (3)\\Assets\\SphereMovement.cs",
+              "RelativeToolTip": "Assets\\SphereMovement.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T21:07:14.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "changeColor.cs",
+              "DocumentMoniker": "C:\\Users\\Mareatan\\My project (3)\\Assets\\changeColor.cs",
+              "RelativeDocumentMoniker": "Assets\\changeColor.cs",
+              "ToolTip": "C:\\Users\\Mareatan\\My project (3)\\Assets\\changeColor.cs",
+              "RelativeToolTip": "Assets\\changeColor.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T20:54:58.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LightSwitch.cs",
+              "DocumentMoniker": "C:\\Users\\Mareatan\\My project (3)\\Assets\\LightSwitch.cs",
+              "RelativeDocumentMoniker": "Assets\\LightSwitch.cs",
+              "ToolTip": "C:\\Users\\Mareatan\\My project (3)\\Assets\\LightSwitch.cs",
+              "RelativeToolTip": "Assets\\LightSwitch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T11:08:27.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ballFall.cs",
+              "DocumentMoniker": "C:\\Users\\Mareatan\\My project (3)\\Assets\\ballFall.cs",
+              "RelativeDocumentMoniker": "Assets\\ballFall.cs",
+              "ToolTip": "C:\\Users\\Mareatan\\My project (3)\\Assets\\ballFall.cs",
+              "RelativeToolTip": "Assets\\ballFall.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:45:09.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "cubescr.cs",
+              "DocumentMoniker": "C:\\Users\\Mareatan\\My project (3)\\Assets\\cubescr.cs",
+              "RelativeDocumentMoniker": "Assets\\cubescr.cs",
+              "ToolTip": "C:\\Users\\Mareatan\\My project (3)\\Assets\\cubescr.cs",
+              "RelativeToolTip": "Assets\\cubescr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T10:21:23.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewBehaviourScript.cs",
+              "DocumentMoniker": "C:\\Users\\Mareatan\\My project (3)\\Assets\\NewBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\NewBehaviourScript.cs",
+              "ToolTip": "C:\\Users\\Mareatan\\My project (3)\\Assets\\NewBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\NewBehaviourScript.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA6wBMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T09:41:17.588Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
